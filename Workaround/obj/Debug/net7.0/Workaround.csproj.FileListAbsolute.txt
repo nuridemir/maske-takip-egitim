@@ -1,0 +1,14 @@
+C:\cyazilim\Repos\MaskeTakip\Workaround\bin\Debug\net7.0\Workaround.exe
+C:\cyazilim\Repos\MaskeTakip\Workaround\bin\Debug\net7.0\Workaround.deps.json
+C:\cyazilim\Repos\MaskeTakip\Workaround\bin\Debug\net7.0\Workaround.runtimeconfig.json
+C:\cyazilim\Repos\MaskeTakip\Workaround\bin\Debug\net7.0\Workaround.dll
+C:\cyazilim\Repos\MaskeTakip\Workaround\bin\Debug\net7.0\Workaround.pdb
+C:\cyazilim\Repos\MaskeTakip\Workaround\obj\Debug\net7.0\Workaround.GeneratedMSBuildEditorConfig.editorconfig
+C:\cyazilim\Repos\MaskeTakip\Workaround\obj\Debug\net7.0\Workaround.AssemblyInfoInputs.cache
+C:\cyazilim\Repos\MaskeTakip\Workaround\obj\Debug\net7.0\Workaround.AssemblyInfo.cs
+C:\cyazilim\Repos\MaskeTakip\Workaround\obj\Debug\net7.0\Workaround.csproj.CoreCompileInputs.cache
+C:\cyazilim\Repos\MaskeTakip\Workaround\obj\Debug\net7.0\Workaround.dll
+C:\cyazilim\Repos\MaskeTakip\Workaround\obj\Debug\net7.0\refint\Workaround.dll
+C:\cyazilim\Repos\MaskeTakip\Workaround\obj\Debug\net7.0\Workaround.pdb
+C:\cyazilim\Repos\MaskeTakip\Workaround\obj\Debug\net7.0\Workaround.genruntimeconfig.cache
+C:\cyazilim\Repos\MaskeTakip\Workaround\obj\Debug\net7.0\ref\Workaround.dll
